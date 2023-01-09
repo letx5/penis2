@@ -6,6 +6,8 @@
 
 - Good documentation.
 
+- Unit tested.
+
 - Allows specifying full and partial len.
 
 ## Basic usage:
